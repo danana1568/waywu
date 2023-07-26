@@ -1,0 +1,150 @@
+body {
+  background-color: rgba(205, 224, 255, 0.826);
+}
+#card {
+  width: 784px;
+  height: 700px;
+  background-color: white;
+  box-shadow: 5px 10px 20px -10px black;
+  position: relative;
+  top: 24px;
+  left: 24px;
+}
+
+#photo {
+  width: 120px;
+  height: 100px;
+  background-color: rgb(80, 127, 122);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#intro {
+  width: 238px;
+  height: 350px;
+  background-color: darkslategray;
+  color: white;
+
+  position: absolute;
+  left: 0;
+  bottom: 0;
+
+  box-sizing: border-box;
+  padding: 12px 24px 12px 24px;
+}
+
+h2 {
+  font-size: 18px;
+}
+#about {
+  width: 320px;
+  height: 528px;
+  background-color: white;
+
+  position: absolute;
+  left: 238px;
+  top: 0;
+
+  box-sizing: border-box;
+  padding: 12px 24px 12px 24px;
+}
+
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#point1 {
+  left: 60px;
+  background-color: lightseagreen;
+}
+
+h4 {
+  color: rgb(29, 0, 244);
+}
+
+li {
+  color: black;
+}
+
+#other {
+  width: 186px;
+  height: 528px;
+  background-color: white;
+
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  box-sizing: border-box;
+  padding: 12px 24px 12px 24px;
+}
+
+.block {
+  width: 138px;
+  height: 32px;
+
+  position: relative;
+  margin-top: 12px;
+}
+
+.left-text {
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: black;
+}
+
+.right-text {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: rgb(128, 128, 128);
+}
+
+.gray-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 138px;
+  height: 12px;
+  background-color: rgba(156, 150, 150, 0.696);
+  border-radius: 6px;
+}
+
+.green-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 24px;
+  height: 12px;
+  background-color: green;
+  border-radius: 6px;
+}
+
+#green-bar1 {
+  width: 120px;
+}
+#green-bar2 {
+  width: 120px;
+}
+#green-bar3 {
+  width: 95px;
+}
+#green-bar4 {
+  width: 75px;
+}
+#green-bar5 {
+  width: 50px;
+}
+#green-bar6 {
+  width: 95px;
+}
+#green-bar7 {
+  width: 70px;
+}
+#green-bar8 {
+  width: 70px;
+}
